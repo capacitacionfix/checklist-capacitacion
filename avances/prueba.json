@@ -1,0 +1,508 @@
+{
+  "version": 1,
+  "savedAt": "2026-02-20T23:45:27.888Z",
+  "author": "Prueba",
+  "activeTab": "sh-1771630935094",
+  "sheets": [
+    {
+      "id": "sh-1771628896011",
+      "name": "Colaborador 1",
+      "nombre": "Colaborador 1",
+      "numEmp": "",
+      "puesto": "",
+      "capacitador": "",
+      "modulo": "",
+      "ingreso": "",
+      "inicio": "",
+      "termino": "",
+      "tipo": "nuevo-ingreso",
+      "motivo": "",
+      "rows": {
+        "s1": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s2": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s3": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s4": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s5": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s6": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "sh-1771630935094",
+      "name": "Hoja 2",
+      "nombre": "",
+      "numEmp": "",
+      "puesto": "",
+      "capacitador": "",
+      "modulo": "",
+      "ingreso": "",
+      "inicio": "",
+      "termino": "",
+      "tipo": "nuevo-ingreso",
+      "motivo": "",
+      "rows": {
+        "s1": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s2": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s3": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s4": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s5": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ],
+        "s6": [
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          },
+          {
+            "checked": false,
+            "result": "",
+            "date": "",
+            "obs": ""
+          }
+        ]
+      }
+    }
+  ]
+}
